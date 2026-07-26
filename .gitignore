@@ -1,0 +1,10 @@
+#ignore everything
+*
+# do not ignore source and header file
+!*.c
+!*.h
+!*.py
+!*.gitignore
+!*.md
+# Do not ignore directories
+!*/
