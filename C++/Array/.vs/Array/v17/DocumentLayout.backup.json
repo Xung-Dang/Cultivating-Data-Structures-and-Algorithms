@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\D\\2026\\Study\\Academic\\Data structure and Algorithms\\Array\\C\u002B\u002B\\Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C722308A-190F-435D-A098-399FCEE698E2}|Array.vcxproj|D:\\D\\2026\\Study\\Academic\\Data structure and Algorithms\\Array\\C\u002B\u002B\\Array\\_1295_Find_Numbers_with_Even_Number_of_Digits.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C722308A-190F-435D-A098-399FCEE698E2}|Array.vcxproj|solutionrelative:_1295_Find_Numbers_with_Even_Number_of_Digits.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_1295_Find_Numbers_with_Even_Number_of_Digits.cpp",
+              "DocumentMoniker": "D:\\D\\2026\\Study\\Academic\\Data structure and Algorithms\\Array\\C\u002B\u002B\\Array\\_1295_Find_Numbers_with_Even_Number_of_Digits.cpp",
+              "RelativeDocumentMoniker": "_1295_Find_Numbers_with_Even_Number_of_Digits.cpp",
+              "ToolTip": "D:\\D\\2026\\Study\\Academic\\Data structure and Algorithms\\Array\\C\u002B\u002B\\Array\\_1295_Find_Numbers_with_Even_Number_of_Digits.cpp",
+              "RelativeToolTip": "_1295_Find_Numbers_with_Even_Number_of_Digits.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-26T04:51:31.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
